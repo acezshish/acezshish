@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ashish Poudel
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ashish%20Poudel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prijal-bista/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ashish%20Poudel-blue?logo=Linkedin&logoColor=blue&labelColor=black)(https://www.linkedin.com/in/ashish-poudel-6a6697204/)
 [![Mail](https://img.shields.io/badge/Gmail-ashishpoudel1996@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:ashishpoudel1996@gmail.com)
 
 <!--
