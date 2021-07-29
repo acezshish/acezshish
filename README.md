@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashish Poudel
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ashish%20Poudel-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prijal-bista/)
+[![Mail](https://img.shields.io/badge/Gmail-ashishpoudel1996@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:ashishpoudel1996@gmail.com)
 
 <!--
 **acezshish/acezshish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
