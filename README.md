@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Ashish Poudel
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ashish%20Poudel-blue?logo=Linkedin&logoColor=blue&labelColor=black)
 [![Mail](https://img.shields.io/badge/Gmail-ashishpoudel1996@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:ashishpoudel1996@gmail.com)
 
 <!--
