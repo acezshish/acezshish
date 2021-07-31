@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acezshish&label=Profile%20views&color=0e75b6&style=flat" alt="acezshish" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ashishpdel@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-poudel-6a6697204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-poudel-6a6697204/" height="30" width="40" /></a>
 <a href="https://dribbble.com/acezshish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="acezshish" height="30" width="40" /></a>
